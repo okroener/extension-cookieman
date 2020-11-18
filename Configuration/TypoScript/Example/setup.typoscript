@@ -9,6 +9,7 @@ plugin.tx_cookieman {
             mandatory {
                 trackingObjects {
                     10 = fe_typo_user
+                    20 = Cloudflare
                 }
             }
 

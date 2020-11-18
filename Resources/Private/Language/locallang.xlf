@@ -130,6 +130,9 @@
             <trans-unit id="trackingobject.fe_typo_user.desc" resname="trackingobject.fe_typo_user.desc">
                 <source>Assigns your browser to a session on the server.</source>
             </trans-unit>
+            <trans-unit id="trackingobject._cfduid.desc" resname="trackingobject._cfduid.desc">
+                <source>A Cloudflare CDN cookie for identifying individual visitors privately.</source>
+            </trans-unit>
             <trans-unit id="duration.session" resname="duration.session">
                 <source>session</source>
             </trans-unit>
